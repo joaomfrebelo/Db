@@ -27,6 +27,6 @@
         "phpunit/phpunit": "^7.0.0"
     },
     "homepage": "https://github.com/joaomfrebelo/Db",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "type": "library"
 }
