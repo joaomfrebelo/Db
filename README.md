@@ -7,7 +7,7 @@ The Adapter, Select, Insert, Update and Delete class are extention of
 the class with the same name in Zend\Db
 
 ## Example
-Get all rows of a table in an array, whit the fetch method
+Get all rows of a table in an array, with the fetch method
 ```php
     $config = [
             'driver'   => 'Pdo_Mysql',
