@@ -2,7 +2,9 @@
     "name": "joaomfrebelo/db",
     "description": "A library that extends zendframework/zend-db, this library is a shorthand of useful methods in Zendframework/Db",
     "keywords": [
-        "database, ORM, abstract access to a Database"
+        "database",
+        "ORM",
+        "Db"
     ],
     "authors": [
         {
