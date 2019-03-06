@@ -1,0 +1,1 @@
+php %~dp0../vendor/phpunit/phpunit/phpunit --configuration %~dp0phpunit.xml --verbose %~dp0Rebelo/Test/Db/Adapter "idekey=netbeans-xdebug"

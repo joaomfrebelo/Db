@@ -1,0 +1,30 @@
+{
+    "name": "joaomfrebelo/db",
+    "description": "A library that extends zendframework/zend-db, this library is a shorthand of useful methods in Zendframework/Db",
+    "keywords": [
+        "database, ORM, abstract access to a Database"
+    ],
+    "authors": [
+        {
+            "name": "João M F Rebelo",
+            "email": "joaomfrebelo@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Rebelo\\Db\\": "src/Rebelo/Db/"
+        }
+    },
+    "license": "MIT",
+    "prefer-stable": true,
+    "require": {
+        "php": "^7.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.0.0",
+        "zendframework/zend-db": "^2.10"
+    },
+    "homepage": "https://github.com/joaomfrebelo/Db",
+    "version": "1.0.0",
+    "type": "library"
+}
